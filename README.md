@@ -1,1 +1,3 @@
 # 203_final
+This code was created to run in google colab to run it in colab, click on the file named 203finalcode.ipynb and then click on the google colab link at the top. run the code blocks in order to get dependencies, train model, and test its performance. The number of epochs has been set to 50 for the sake of demonstration, to achieve best performance, 300 or more should be used. A downloadable jupyter notebook version has been included as 203_personal_final.ipynb if there is an issue with google colab, but I have only debugged the colab. 
+A paper describing the group and individual aproch to this problem has been uploaded as a word doc called to block or not to block.
